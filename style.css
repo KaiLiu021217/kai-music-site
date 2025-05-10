@@ -1,0 +1,14 @@
+body {
+    background-color: #f4f4f9;
+    font-family: Verdana, sans-serif;
+    color: #333;
+}
+h1, h2 {
+    color: #222;
+}
+.custom-box {
+    border: 1px solid #ccc;
+    margin: 20px;
+    padding: 20px;
+    background-color: white;
+}
